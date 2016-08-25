@@ -1,10 +1,5 @@
-B
-B
-B
-B
-B
-
-B
-C
-C
-u
+class UserInfo{
+ public static void main(String[] args){
+		System.out.println("nihao");
+	}
+}
