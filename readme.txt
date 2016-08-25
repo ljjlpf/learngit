@@ -1,5 +1,5 @@
 function test(){
- alert("luojianjun");
+ alert("test");
 }
 function log(tste){
 	if(window.console){
